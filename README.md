@@ -1,6 +1,6 @@
 ### Hi Hello My name is HeoHoJun 👋
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeoHoJun&layout=compact"><br><br>
 [![HeoHoJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeoHoJun&show_icons=true)](https://github.com/HeoHojun/github-readme-stats)
 
 <h2>Used tool & skill</h2>
