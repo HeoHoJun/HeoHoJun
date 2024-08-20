@@ -11,5 +11,4 @@
 
 <h2>studing</h2>
 
-![python](https://img.shields.io/badge/python-red?style=for-the-badge&logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![C언어](https://img.shields.io/badge/C언어-green?style=for-the-badge&logo=C&logoColor=white)
-
+![python](https://img.shields.io/badge/python-red?style=for-the-badge&logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) 
